@@ -20,7 +20,7 @@
 - Better Contract Descriptions, to help you make sure you're picking the correct part. I don't know for a fact how much I can do with that.
 
 #LICENSE:
-- CC share-alike. Anyone is free to do anything they like with Parts Unlimited, so long as they allow others to do the same.
+- GNU GPL3
 
 #THANKS:
 - To nightingale. Not only for making Contract Configurator and making countless changes to it to accommodate my inane requests, but also for endless patience in helping me understand his frighteningly configurable mod.
